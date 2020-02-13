@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BIODATAKU</string>
+    <string name="Title">Hello!</string>
+    <string name="Name">Nama\t\t\t\t\t: Gina Melinia</string>
+    <string name="TTL">TTL\t\t\t\t\t\t: Garut, 20 Februari 2000</string>
+    <string name="email">Email\t\t\t\t\t: gina.melinia.tif18@polban.ac.id</string>
+</resources>
